@@ -74,3 +74,30 @@ a {
   height: auto;
   width: 500px;
 }
+
+.two {
+  margin-top: 50px;
+}
+
+.heading-two {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.services {
+  display: flex;
+  justify-content: center;
+  margin-top: 75px;
+  text-align: center;
+  gap: 35px;
+}
+
+.services img {
+  height: 200px;
+  width: 200px;
+}
+
+.subtext {
+  width: 200px;
+}
