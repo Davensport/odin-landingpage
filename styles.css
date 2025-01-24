@@ -14,3 +14,22 @@ body {
 .one {
   background-color: rgb(66, 60, 51);
 }
+
+.header {
+  display: flex;
+}
+
+img {
+  height: 300px;
+  width: auto;
+  margin-left: 100px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
