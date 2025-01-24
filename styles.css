@@ -77,6 +77,7 @@ a {
 
 .two {
   margin-top: 50px;
+  margin-bottom: 100px;
 }
 
 .heading-two {
@@ -100,4 +101,27 @@ a {
 
 .subtext {
   width: 200px;
+}
+
+.three {
+  background-color: rgb(250, 228, 199);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px;
+}
+
+.quote {
+  font-size: 30px;
+  text-align: center;
+  width: 900px;
+  font-style: italic;
+}
+
+.person {
+  align-self: flex-end;
+  margin-right: 900px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
 }
