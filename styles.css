@@ -27,7 +27,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5px 100px;
+  padding: 10px 100px;
 }
 
 img {
@@ -44,4 +44,8 @@ a {
   color: white;
   text-decoration: none;
   padding: 20px;
+}
+
+.one {
+  padding-top: 100px;
 }
