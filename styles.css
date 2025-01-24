@@ -47,7 +47,10 @@ a {
 }
 
 .one {
-  padding-top: 100px;
+  display: flex;
+  padding: 100px;
+  justify-content: center;
+  gap: 100px;
 }
 
 .heading {
@@ -59,4 +62,12 @@ a {
 .text {
   color: white;
   font-size: 20px;
+}
+
+.message-us {
+}
+
+.photobook {
+  height: auto;
+  width: 500px;
 }
