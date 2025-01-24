@@ -111,6 +111,10 @@ a {
   padding: 100px;
 }
 
+.quote-wrapper {
+  width: 900px;
+}
+
 .quote {
   font-size: 30px;
   text-align: center;
@@ -119,8 +123,7 @@ a {
 }
 
 .person {
-  align-self: flex-end;
-  margin-right: 900px;
+  text-align: right;
   margin-top: 10px;
   font-size: 20px;
   font-weight: bold;
