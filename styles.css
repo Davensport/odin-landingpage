@@ -17,19 +17,23 @@ body {
 
 .header {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 100px;
 }
 
 img {
-  height: 300px;
+  height: 100px;
   width: auto;
-  margin-left: 100px;
 }
 
 ul {
   list-style: none;
+  display: flex;
 }
 
 a {
   color: white;
   text-decoration: none;
+  padding: 20px;
 }
