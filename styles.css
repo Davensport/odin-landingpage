@@ -50,11 +50,11 @@ a {
   display: flex;
   padding: 100px;
   justify-content: center;
-  gap: 100px;
+  gap: 200px;
 }
 
 .heading {
-  color: rgb(255, 204, 63);
+  color: white;
   font-size: 50px;
   font-weight: bold;
 }
@@ -65,6 +65,9 @@ a {
 }
 
 .message-us {
+  margin-top: 20px;
+  padding: 5px 20px;
+  background-color: rgb(255, 204, 63);
 }
 
 .photobook {
