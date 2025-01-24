@@ -11,8 +11,16 @@ body {
 }
 
 .header,
-.one {
+.one,
+.footer {
   background-color: rgb(66, 60, 51);
+}
+
+.footer {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding: 20px;
 }
 
 .header {
